@@ -1,0 +1,10 @@
+Priority of files for compilation
+---------------------------------
+
+(1) 1_Heat.f90
+(2) 2_Vars_Init.f90
+(3) 3_Grid_Points.f90
+(4) 4_BCs.f90
+(5) 5_Diagonals.f90
+(6) 6_GaussSeidel.f90
+(7) 7_Contour.f90
